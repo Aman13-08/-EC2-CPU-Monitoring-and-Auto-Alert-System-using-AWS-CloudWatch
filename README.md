@@ -95,8 +95,3 @@ python3 cpu_spike.py
 
 ## 📜 License
 This project is open-source and available under the MIT License.
-
----
-
-## 📩 Contact
-For any queries or suggestions, feel free to reach out!
